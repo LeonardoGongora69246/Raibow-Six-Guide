@@ -1,0 +1,296 @@
+[
+    {
+        "name":  "Barbed Wire",
+        "img":  "img/gadgets/barbed wire.png",
+        "descripcion":  "Alambre de púas que ralentiza y delata el paso de atacantes.",
+        "operadores":  [
+                           "Sentry",
+                           "Fenrir",
+                           "Azami",
+                           "Thorn",
+                           "Thunderbird",
+                           "Aruni",
+                           "Oryx",
+                           "Mozzie",
+                           "Kaid",
+                           "Clash",
+                           "Maestro",
+                           "Ela",
+                           "Smoke",
+                           "Doc",
+                           "Bandit",
+                           "Tachanka",
+                           "Kapkan"
+                       ]
+    },
+    {
+        "name":  "Breach Charge",
+        "img":  "img/gadgets/breach charge.png",
+        "descripcion":  "Carga explosiva remota para abrir paredes, suelos y barricadas.",
+        "operadores":  [
+                           "Grim",
+                           "Kali",
+                           "Gridlock",
+                           "Nomad",
+                           "Hibana",
+                           "Thatcher",
+                           "Ash",
+                           "Blitz",
+                           "IQ",
+                           "Fuze",
+                           "Recruit",
+                           "Striker",
+                           "Rauora"
+                       ]
+    },
+    {
+        "name":  "Bulletproof Camera",
+        "img":  "img/gadgets/bulletproof camera.png",
+        "descripcion":  "Cámara blindada fija con visión térmica y ráfagas PEM.",
+        "operadores":  [
+                           "Vigil",
+                           "Sentry",
+                           "Fenrir",
+                           "Thunderbird",
+                           "Aruni",
+                           "Melusi",
+                           "Goyo",
+                           "Lesion",
+                           "Frost",
+                           "Mute",
+                           "Castle",
+                           "Doc",
+                           "Jäger",
+                           "Kapkan"
+                       ]
+    },
+    {
+        "name":  "Claymore",
+        "img":  "img/gadgets/claymore.png",
+        "descripcion":  "Mina antipersonal direccional activada por láseres de proximidad.",
+        "operadores":  [
+                           "Solid Snake",
+                           "Grim",
+                           "Sens",
+                           "Lion",
+                           "Zofia",
+                           "Brava",
+                           "Osa",
+                           "Flores",
+                           "Zero",
+                           "Ace",
+                           "Kali",
+                           "Maverick",
+                           "Jackal",
+                           "Capitão",
+                           "Blackbeard",
+                           "Buck",
+                           "Thatcher",
+                           "Ash",
+                           "Twitch",
+                           "IQ",
+                           "Glaz",
+                           "Striker"
+                       ]
+    },
+    {
+        "name":  "Deployable Shield",
+        "img":  "img/gadgets/deployable shield.png",
+        "descripcion":  "Escudo balístico plegable con rendijas blindadas de cobertura.",
+        "operadores":  [
+                           "Sentry",
+                           "Thorn",
+                           "Thunderbird",
+                           "Wamai",
+                           "Warden",
+                           "Clash",
+                           "Ela",
+                           "Echo",
+                           "Frost",
+                           "Pulse",
+                           "Tachanka",
+                           "Denari"
+                       ]
+    },
+    {
+        "name":  "Frag Grenade",
+        "img":  "img/gadgets/frag grenade.png",
+        "descripcion":  "Granada explosiva de fragmentación con mecha temporizada.",
+        "operadores":  [
+                           "Sens",
+                           "Lion",
+                           "Finka",
+                           "Deimos",
+                           "Osa",
+                           "Nøkk",
+                           "Blackbeard",
+                           "Sledge",
+                           "IQ",
+                           "Glaz",
+                           "Recruit",
+                           "Striker"
+                       ]
+    },
+    {
+        "name":  "Hard Breach Charge",
+        "img":  "img/gadgets/hard breach charge.png",
+        "descripcion":  "Carga térmica portátil que abre paredes y trampillas reforzadas.",
+        "operadores":  [
+                           "Noor",
+                           "Grim",
+                           "Sens",
+                           "Deimos",
+                           "Zero",
+                           "Amaru",
+                           "Nøkk",
+                           "Ying",
+                           "Capitão",
+                           "Montagne",
+                           "Fuze",
+                           "Striker"
+                       ]
+    },
+    {
+        "name":  "Impact EMP Grenade",
+        "img":  "img/gadgets/impact emp grenade.png",
+        "descripcion":  "Granada PEM de impacto que desactiva dispositivos electrónicos cercanos.",
+        "operadores":  [
+                           "Noor",
+                           "Osa",
+                           "Iana",
+                           "Nøkk",
+                           "Gridlock",
+                           "Dokkaebi",
+                           "Capitão",
+                           "Sledge",
+                           "Montagne",
+                           "Striker"
+                       ]
+    },
+    {
+        "name":  "Impact Grenade",
+        "img":  "img/gadgets/impact grenade.png",
+        "descripcion":  "Granada ligera que detona al impacto para abrir rotaciones.",
+        "operadores":  [
+                           "Solis",
+                           "Vigil",
+                           "Sentry",
+                           "Azami",
+                           "Melusi",
+                           "Goyo",
+                           "Mozzie",
+                           "Clash",
+                           "Maestro",
+                           "Ela",
+                           "Echo",
+                           "Caveira",
+                           "Valkyrie",
+                           "Rook",
+                           "Skopòs"
+                       ]
+    },
+    {
+        "name":  "Nitro Cell",
+        "img":  "img/gadgets/nitro cell.png",
+        "descripcion":  "Explosivo C4 detonado a distancia con gran radio de daño.",
+        "operadores":  [
+                           "Tubarão",
+                           "Sentry",
+                           "Warden",
+                           "Mozzie",
+                           "Kaid",
+                           "Mira",
+                           "Valkyrie",
+                           "Mute",
+                           "Bandit"
+                       ]
+    },
+    {
+        "name":  "Observation Blocker",
+        "img":  "img/gadgets/observation blocker.png",
+        "descripcion":  "Proyector que genera una barrera digital contra drones y cámaras.",
+        "operadores":  [
+                           "Sentry",
+                           "Fenrir",
+                           "Warden",
+                           "Kaid",
+                           "Maestro",
+                           "Alibi",
+                           "Lesion",
+                           "Caveira",
+                           "Pulse",
+                           "Rook",
+                           "Jäger"
+                       ]
+    },
+    {
+        "name":  "Proximity Alarm",
+        "img":  "img/gadgets/proximity alarm.png",
+        "descripcion":  "Sensor adherible que emite una alerta sonora al detectar enemigos.",
+        "operadores":  [
+                           "Tubarão",
+                           "Solis",
+                           "Sentry",
+                           "Oryx",
+                           "Wamai",
+                           "Goyo",
+                           "Alibi",
+                           "Mira",
+                           "Caveira",
+                           "Smoke",
+                           "Castle",
+                           "Rook",
+                           "Tachanka",
+                           "Skopòs",
+                           "Denari"
+                       ]
+    },
+    {
+        "name":  "Smoke Grenade",
+        "img":  "img/gadgets/smoke grenade.png",
+        "descripcion":  "Granada de humo que despliega una cortina densa para cubrir avances.",
+        "operadores":  [
+                           "Solid Snake",
+                           "Finka",
+                           "Ram",
+                           "Brava",
+                           "Iana",
+                           "Kali",
+                           "Gridlock",
+                           "Maverick",
+                           "Dokkaebi",
+                           "Ying",
+                           "Jackal",
+                           "Thermite",
+                           "Montagne",
+                           "Twitch",
+                           "Blitz",
+                           "Fuze",
+                           "Glaz",
+                           "Recruit",
+                           "Striker",
+                           "Rauora"
+                       ]
+    },
+    {
+        "name":  "Stun Grenade",
+        "img":  "img/gadgets/stun grenade.png",
+        "descripcion":  "Granada aturdidora que emite un destello cegador y ensordecedor.",
+        "operadores":  [
+                           "Lion",
+                           "Finka",
+                           "Ram",
+                           "Flores",
+                           "Amaru",
+                           "Nomad",
+                           "Maverick",
+                           "Dokkaebi",
+                           "Hibana",
+                           "Buck",
+                           "Sledge",
+                           "Thermite",
+                           "Recruit",
+                           "Striker"
+                       ]
+    }
+]
