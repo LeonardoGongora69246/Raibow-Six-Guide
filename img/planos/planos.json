@@ -1,0 +1,475 @@
+{
+  "bank": [
+    {
+      "nivel": "Sótano",
+      "nombre": "PVP08 Bank Basement",
+      "ruta": "img/planos/bank/piso_1.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Bank 2nd floor secure area",
+      "ruta": "img/planos/bank/piso_2.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "PVP08 Bank Roof",
+      "ruta": "img/planos/bank/piso_3.png"
+    }
+  ],
+  "border": [
+    {
+      "nivel": "1.er Piso",
+      "nombre": "R6-maps-border-blueprint-1",
+      "ruta": "img/planos/border/piso_1.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "R6-maps-border-blueprint-2",
+      "ruta": "img/planos/border/piso_2.jpg"
+    },
+    {
+      "nivel": "3.er Piso",
+      "nombre": "R6-maps-border-blueprint-3",
+      "ruta": "img/planos/border/piso_3.jpg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "R6 live Y6S1 Border Rework Roof Environment",
+      "ruta": "img/planos/border/piso_4.png"
+    }
+  ],
+  "chalet": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Chalet rework basement",
+      "ruta": "img/planos/chalet/piso_1.png"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Chalet rework 1f",
+      "ruta": "img/planos/chalet/piso_2.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Chalet rework 2f",
+      "ruta": "img/planos/chalet/piso_3.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Chalet rework roof layer",
+      "ruta": "img/planos/chalet/piso_4.png"
+    }
+  ],
+  "clubhouse": [
+    {
+      "nivel": "Sótano",
+      "nombre": "PVP04 ClubHouse Basement",
+      "ruta": "img/planos/clubhouse/piso_1.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Club house 2nd floor secure area",
+      "ruta": "img/planos/clubhouse/piso_2.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "PVP04 ClubHouse Roof",
+      "ruta": "img/planos/clubhouse/piso_3.png"
+    }
+  ],
+  "coastline": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Coastline_Floor_Basement",
+      "ruta": "img/planos/coastline/piso_1.png"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Coastline_Floor_1",
+      "ruta": "img/planos/coastline/piso_2.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Coastline_Floor_2",
+      "ruta": "img/planos/coastline/piso_3.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "PVP16 Coastline Roof",
+      "ruta": "img/planos/coastline/piso_4.jpg"
+    }
+  ],
+  "consulate": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Consulate Rework-Basement",
+      "ruta": "img/planos/consulate/piso_1.jpg"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Consulate_Rework-Floor1",
+      "ruta": "img/planos/consulate/piso_2.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Consulate_Rework-Floor2",
+      "ruta": "img/planos/consulate/piso_3.jpg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Consulate Rework-Roof",
+      "ruta": "img/planos/consulate/piso_4.jpg"
+    }
+  ],
+  "emerald plains": [
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Emerald-plains-blueprint-floor-1",
+      "ruta": "img/planos/emerald plains/piso_1.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Emerald-plains-blueprint-floor-2",
+      "ruta": "img/planos/emerald plains/piso_2.jpg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Emerald-plains-blueprint-roof",
+      "ruta": "img/planos/emerald plains/piso_3.jpg"
+    }
+  ],
+  "hereford base": [
+    {
+      "nivel": "Sótano",
+      "nombre": "HerefordBasement_217064",
+      "ruta": "img/planos/hereford base/piso_1.jpg"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Hereford base 1st floor secure area",
+      "ruta": "img/planos/hereford base/piso_2.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Hereford base 2nd floor secure area",
+      "ruta": "img/planos/hereford base/piso_3.png"
+    },
+    {
+      "nivel": "3.er Piso",
+      "nombre": "Hereford base 3rd floor secure area",
+      "ruta": "img/planos/hereford base/piso_4.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "HerefordRoof",
+      "ruta": "img/planos/hereford base/piso_5.jpg"
+    }
+  ],
+  "house": [
+    {
+      "nivel": "Sótano",
+      "nombre": "House Basement",
+      "ruta": "img/planos/house/piso_1.png"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "House_1stFloor",
+      "ruta": "img/planos/house/piso_2.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "House_2ndFloor",
+      "ruta": "img/planos/house/piso_3.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "House Roof",
+      "ruta": "img/planos/house/piso_4.png"
+    }
+  ],
+  "kafe dostoyevsky": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Cafe basement",
+      "ruta": "img/planos/kafe dostoyevsky/piso_1.png"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Kafe_1st_floor_secure_area",
+      "ruta": "img/planos/kafe dostoyevsky/piso_2.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Kafe 2nd floor secure area",
+      "ruta": "img/planos/kafe dostoyevsky/piso_3.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Cafe_rooftop",
+      "ruta": "img/planos/kafe dostoyevsky/piso_4.png"
+    }
+  ],
+  "kanal": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Kanal_basement_secure_area",
+      "ruta": "img/planos/kanal/piso_1.png"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Kanal 1st floor 227430",
+      "ruta": "img/planos/kanal/piso_2.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Kanal 2nd floor 227431",
+      "ruta": "img/planos/kanal/piso_3.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Kanal_roof_227432",
+      "ruta": "img/planos/kanal/piso_4.png"
+    }
+  ],
+  "lair": [
+    {
+      "nivel": "Sótano",
+      "nombre": "R6Map Lair Blueprint Basement",
+      "ruta": "img/planos/lair/piso_1.jpg"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "R6Map Lair Blueprint 1st-Floor",
+      "ruta": "img/planos/lair/piso_2.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "R6Map Lair Blueprint 2nd-Floor",
+      "ruta": "img/planos/lair/piso_3.jpg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "R6Map Lair Blueprint Roof",
+      "ruta": "img/planos/lair/piso_4.jpg"
+    }
+  ],
+  "nighthaven labs": [
+    {
+      "nivel": "Sótano",
+      "nombre": "PVP25 Nighthaven Basement PBObjectives",
+      "ruta": "img/planos/nighthaven labs/piso_1.png"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "R6-maps-nighthavenlabs-blueprint-1",
+      "ruta": "img/planos/nighthaven labs/piso_2.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "R6-maps-nighthavenlabs-floor2",
+      "ruta": "img/planos/nighthaven labs/piso_3.jpg"
+    },
+    {
+      "nivel": "3.er Piso",
+      "nombre": "R6-maps-nighthavenlabs-floor3",
+      "ruta": "img/planos/nighthaven labs/piso_4.jpg"
+    }
+  ],
+  "oregon": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Oregon_Rework_Basement",
+      "ruta": "img/planos/oregon/piso_1.jpeg"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Oregon_Rework_1st_Floor",
+      "ruta": "img/planos/oregon/piso_2.jpeg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Oregon_Rework_2nd_Floor",
+      "ruta": "img/planos/oregon/piso_3.jpeg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Oregon_Rework_Roof",
+      "ruta": "img/planos/oregon/piso_4.jpeg"
+    }
+  ],
+  "outback": [
+    {
+      "nivel": "1.er Piso",
+      "nombre": "R6-maps-outback-blueprint-1",
+      "ruta": "img/planos/outback/piso_1.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "R6-maps-outback-blueprint-2",
+      "ruta": "img/planos/outback/piso_2.jpg"
+    },
+    {
+      "nivel": "3.er Piso",
+      "nombre": "R6-maps-outback-blueprint-3",
+      "ruta": "img/planos/outback/piso_3.jpg"
+    }
+  ],
+  "skyscraper": [
+    {
+      "nivel": "1.er Piso",
+      "nombre": "R6-maps-skyscraper-blueprint-1",
+      "ruta": "img/planos/skyscraper/piso_1.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "R6-maps-skyscraper-blueprint-2",
+      "ruta": "img/planos/skyscraper/piso_2.jpg"
+    },
+    {
+      "nivel": "3.er Piso",
+      "nombre": "R6-maps-skyscraper-blueprint-3",
+      "ruta": "img/planos/skyscraper/piso_3.jpg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Skyscraper_roof",
+      "ruta": "img/planos/skyscraper/piso_4.png"
+    }
+  ],
+  "stadium alpha": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Stadium Rework Basement",
+      "ruta": "img/planos/stadium alpha/piso_1.jpeg"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Stadium_Rework_1st_Floor",
+      "ruta": "img/planos/stadium alpha/piso_2.jpeg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Stadium_Rework_2nd_Floor",
+      "ruta": "img/planos/stadium alpha/piso_3.jpeg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Stadium_Roof_Placeholder",
+      "ruta": "img/planos/stadium alpha/piso_4.jpeg"
+    }
+  ],
+  "stadium bravo": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Stadium Rework Basement",
+      "ruta": "img/planos/stadium bravo/piso_1.jpeg"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Stadium_Rework_1st_Floor",
+      "ruta": "img/planos/stadium bravo/piso_2.jpeg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Stadium_Rework_2nd_Floor",
+      "ruta": "img/planos/stadium bravo/piso_3.jpeg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Stadium_Roof_Placeholder",
+      "ruta": "img/planos/stadium bravo/piso_4.jpeg"
+    }
+  ],
+  "tower": [
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Map - Tower - 1st floor",
+      "ruta": "img/planos/tower/piso_1.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Map - Tower - 2nd floor",
+      "ruta": "img/planos/tower/piso_2.png"
+    }
+  ],
+  "villa": [
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Villa 1st Floor",
+      "ruta": "img/planos/villa/piso_1.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Villa 2nd Floor",
+      "ruta": "img/planos/villa/piso_2.jpg"
+    }
+  ],
+  "yacht": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Yacht basement",
+      "ruta": "img/planos/yacht/piso_1.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Yacht_roof",
+      "ruta": "img/planos/yacht/piso_2.png"
+    }
+  ],
+  "favela": [
+    {
+      "nivel": "1.er Piso",
+      "nombre": "R6S Live Y6S2 IMG Favela 1stFloor",
+      "ruta": "img/planos/favela/piso_1.jpg"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "R6S Live Y6S2 IMG Favela 2ndFloor",
+      "ruta": "img/planos/favela/piso_2.jpg"
+    },
+    {
+      "nivel": "3.er Piso",
+      "nombre": "R6S Live Y6S2 IMG Favela 3rdFloor",
+      "ruta": "img/planos/favela/piso_3.jpg"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Favela Roof",
+      "ruta": "img/planos/favela/piso_4.png"
+    }
+  ],
+  "presidential plane": [
+    {
+      "nivel": "Sótano",
+      "nombre": "Presidential plane basement secure floor",
+      "ruta": "img/planos/presidential plane/piso_1.png"
+    },
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Presidential plane 1st floor secure area",
+      "ruta": "img/planos/presidential plane/piso_2.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Presidential plane 2nd floor secure area",
+      "ruta": "img/planos/presidential plane/piso_3.png"
+    }
+  ],
+  "theme park": [
+    {
+      "nivel": "1.er Piso",
+      "nombre": "Theme Park floor 1",
+      "ruta": "img/planos/theme park/piso_1.png"
+    },
+    {
+      "nivel": "2.º Piso",
+      "nombre": "Theme Park floor 2",
+      "ruta": "img/planos/theme park/piso_2.png"
+    },
+    {
+      "nivel": "Techo",
+      "nombre": "Theme Park roof",
+      "ruta": "img/planos/theme park/piso_3.png"
+    }
+  ]
+}
