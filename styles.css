@@ -678,3 +678,11 @@ body {
 .dato .text-secondary {
     color: #ffffff !important;
 }
+
+/* Números y descripciones de las métricas */
+.dato,
+.dato span,
+.dato-num,
+.dato .text-secondary {
+    color: #ffffff !important;
+}
