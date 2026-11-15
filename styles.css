@@ -674,3 +674,7 @@ body {
   max-height: 72vh;
   object-fit: contain;
 }
+
+.dato .text-secondary {
+    color: #ffffff !important;
+}
